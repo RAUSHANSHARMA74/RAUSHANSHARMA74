@@ -71,7 +71,7 @@ https://github.com/sknsht/HackerRank
   
 </p>
 
-<hr>
+<!-- <hr>
 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -80,5 +80,5 @@ https://github.com/sknsht/HackerRank
   <br/>
 
 
-<hr>
+<hr> -->
 
