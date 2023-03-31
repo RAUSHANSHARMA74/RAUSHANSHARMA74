@@ -1,3 +1,11 @@
+<h3 align="left">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/RAUSHANSHARMA74"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Raushan%20Sharma;Full%20Stack%20Web%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raushan-sharma-ab0123248/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Raushan07262164) 
