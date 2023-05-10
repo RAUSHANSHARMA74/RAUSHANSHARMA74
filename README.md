@@ -9,12 +9,12 @@
   <a href="https://github.com/RAUSHANSHARMA74"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Raushan%20Sharma;Full%20Stack%20Web%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://twitter.com/Raushan07262164">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Raushan07262164?color=236ad3&labelColor=1155ba&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/RAUSHANSHARMA74">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/RAUSHANSHARMA74?color=8c8c8c&labelColor=666666&style=for-the-badge&logo=github&label=Follow"/></a>
-</p>
+</p> -->
 <hr>
 
 
