@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **Backend**
 - 👯 I’m looking to collaborate on **Backend Development Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
-- <p>To visit My portfolio <a href="https://raushansharma74.github.io/" target="_blank">click here</a></p>
+<p>To visit My portfolio <a href="https://raushansharma74.github.io/" target="_blank">click here</a></p>
 
 <img width="500px" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
