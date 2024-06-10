@@ -12,14 +12,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
+[![](https://visitcount.itsvg.in/api?id=RAUSHANSHARMA74&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=RAUSHANSHARMA74&label=Profile%20views&color=0e75b6&style=flat" alt="RAUSHANSHARMA74" /> </p>
+💫 **About Me:**
+
+- 🔭 I’m currently working on both **Frontend and Backend Development**.
+- 🌱 Expanding my skills in **Full Stack Web Development**.
+- 🌱 Passionate and dedicated **Backend Developer**.
+- 👯 Eager to collaborate on **Innovative Backend Projects**.
+- 🤔 Seeking guidance and opportunities in **Competitive Programming**.
+
+<p>To visit my portfolio, <a href="https://raushansharma74.github.io/" target="_blank">click here</a>.</p>
 
 
-- 🌱 I’m currently learning **Backend**
-- 👯 I’m looking to collaborate on **Backend Development Projects**
-- 🤔 I’m looking for help with **Competitive Programming**
-<p>To visit My portfolio <a href="https://raushansharma74.github.io/" target="_blank">click here</a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"></p>
@@ -29,34 +34,74 @@
 
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raushan-sharma-ab0123248/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Raushan07262164)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+# 💻 Tech Stack
 
-# 📊 GitHub Stats:
-![RAUSHANSHARMA74's Stats](https://github-readme-stats.vercel.app/api?username=RAUSHANSHARMA74&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![RAUSHANSHARMA74's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAUSHANSHARMA74&theme=vue-dark&hide_border=true)<br/>
-<div align="center" >
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUSHANSHARMA74&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="RAUSHANSHARMA74's Top Languages">
+<div align="center">
+  <h3 align="center">Frontend</h3>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" align="center" alt="Bootstrap">
+  <br/> <br/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="center" alt="React.js">
+  <img src="https://img.shields.io/badge/rest%20api-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="REST API">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="center" alt="TypeScript">
+</div>
+
+<br/>
+
+<div align="center">
+  <h3 align="center">Backend</h3>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="Node.js">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="Express.js">
+  <img src="https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socketdotio&badgeColor=010101" align="center" alt="Socket.io">
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="MongoDB">
+  <br/> <br/>
+  <img src="https://img.shields.io/badge/sql-4EA94B?style=for-the-badge&logo=sqlite&logoColor=white" align="center" alt="SQL">
+</div>
+
+<br/>
+
+<div align="center">
+  <h3 align="center">Tools</h3>
+  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt="Netlify">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="Vercel">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" align="center" alt="GitHub">
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="Postman">
+  <br/> <br/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="NPM">
+  <img src="https://img.shields.io/badge/visual%20studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white" align="center" alt="Visual Studio Code">
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative image">
 </div>
 
 
 
+
+
+
+# 📊 GitHub Stats:
+<div align="center" >
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=RAUSHANSHARMA74&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="RAUSHANSHARMA74's Top Languages"><br/>
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=RAUSHANSHARMA74&theme=shadow_green&hide_border=false" alt="RAUSHANSHARMA74's Top Languages"><br/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAUSHANSHARMA74&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="RAUSHANSHARMA74's Top Languages">
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raushansharma74&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Raushan07262164)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=raushansharma74&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
