@@ -16,13 +16,14 @@
 
 💫 **About Me:**
 
-- 🔭 I’m currently working on both **Frontend and Backend Development**.
-- 🌱 Expanding my skills in **Full Stack Web Development**.
-- 🌱 Passionate and dedicated **Backend Developer**.
-- 👯 Eager to collaborate on **Innovative Backend Projects**.
-- 🤔 Seeking guidance and opportunities in **Competitive Programming**.
+- 🔭 Engaged in exciting projects involving **Full Stack Development**.
+- 🌱 Continuously honing my expertise in **Backend Engineering**.
+- 🚀 Enthusiastic about creating seamless **User Experiences** with modern **Frontend Technologies**.
+- 👯 Looking to partner on **Cutting-Edge Backend Solutions**.
+- 🧠 Passionate about mastering **Competitive Programming** challenges.
 
 <p>To visit my portfolio, <a href="https://raushansharma74.github.io/" target="_blank">click here</a>.</p>
+
 
 
 
