@@ -23,6 +23,16 @@
 - 🧠 Passionate about mastering **Competitive Programming** challenges.
 
 <p>To visit my portfolio, <a href="https://raushansharma74.netlify.app/" target="_blank">click here</a>.</p>
+<p>
+    To visit my portfolio, 
+    <a 
+        href="https://raushansharma74.netlify.app/" 
+        target="_blank" 
+        rel="noopener noreferrer"
+    >
+        click here
+    </a>.
+</p>
 
 
 
