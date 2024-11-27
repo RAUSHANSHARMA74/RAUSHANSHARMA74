@@ -22,7 +22,7 @@
 - 👯 Looking to partner on **Cutting-Edge Backend Solutions**.
 - 🧠 Passionate about mastering **Competitive Programming** challenges.
 
-<p>To visit my portfolio, <a href="https://raushansharma74.github.io/" target="_blank">click here</a>.</p>
+<p>To visit my portfolio, <a href="https://raushansharma74.netlify.app/" target="_blank">click here</a>.</p>
 
 
 
